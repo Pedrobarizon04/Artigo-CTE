@@ -1,3 +1,5 @@
+#Para aqueles que desejam ir mais a fundo na pesquisa, e saber mais sobre assuntos técnicos e como o artigo poderia ser aplicado, criamos esse repositório para mostrar como poderia ser feito no SQL. 
+
 # Artigo-CTE
 Análise de Clientes Fiéis com Common Table Expressions (CTEs) no SQL
 Este projeto tem como objetivo demonstrar como utilizar Common Table Expressions (CTEs) no SQL para identificar e analisar clientes fiéis. A fidelidade do cliente é crucial para qualquer empresa, pois clientes recorrentes tendem a gerar mais receita ao longo do tempo. Este README apresentará quatro exemplos de códigos SQL, cada um com explicações claras para facilitar o entendimento tanto para iniciantes quanto para especialistas na área.
