@@ -1,4 +1,4 @@
-#Para aqueles que desejam ir mais a fundo na pesquisa, e saber mais sobre assuntos técnicos e como o artigo poderia ser aplicado, criamos esse repositório para mostrar como poderia ser feito no SQL. 
+# Para aqueles que desejam ir mais a fundo na pesquisa, e saber mais sobre assuntos técnicos e como o artigo poderia ser aplicado, criamos esse repositório para mostrar como poderia ser feito no SQL. 
 
 # Artigo-CTE
 Análise de Clientes Fiéis com Common Table Expressions (CTEs) no SQL
